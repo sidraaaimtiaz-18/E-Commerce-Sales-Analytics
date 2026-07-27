@@ -1,0 +1,20 @@
+/*
+===========================================================
+E-Commerce Sales Analytics
+Database Setup
+Author: Sidra Imtiaz
+===========================================================
+
+This project uses the Brazilian Olist E-Commerce Dataset.
+
+The dataset was imported directly into Google BigQuery
+from CSV files.
+
+Since BigQuery automatically creates tables during CSV
+import, no manual CREATE DATABASE statement was required.
+
+Project Environment:
+Google BigQuery
+*/
+
+-- Database created automatically in Google BigQuery.

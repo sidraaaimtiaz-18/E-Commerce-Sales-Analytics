@@ -1,0 +1,26 @@
+/*
+===========================================================
+Table Creation
+Author: Sidra Imtiaz
+===========================================================
+
+The following tables were imported from CSV files into
+Google BigQuery.
+
+No manual CREATE TABLE statements were required because
+BigQuery generated the schema automatically during import.
+*/
+
+-- Imported Tables
+
+-- customer_data
+
+-- order_data
+
+-- order_item
+
+-- order_payment
+
+-- product_data
+
+-- seller_data
