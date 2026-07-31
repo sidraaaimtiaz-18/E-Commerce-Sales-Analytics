@@ -128,7 +128,7 @@ The Power BI dashboard consists of three interactive report pages.
 ### Sales & Customer Insights
 
 
-![Sales & Customer Insights](Images/Sales%20%26%20Customer%20Insights.PNG)
+![Sales & Customer Insights](Images/Sales%20and%20Customer%20Insights.PNG)
 
 
 ---
@@ -137,6 +137,13 @@ The Power BI dashboard consists of three interactive report pages.
 
 
 ![Advanced Business Insights](Images/Advanced%20Business%20Insights.PNG)
+
+---
+
+### Data model
+
+
+![Data Model](Images/Data-Model.PNG)
 
 ---
 
