@@ -143,7 +143,7 @@ The Power BI dashboard consists of three interactive report pages.
 ### Data model
 
 
-![Data Model](Images/Data-Model.PNG)
+![Data model](Images/Data-Model.PNG)
 
 ---
 
