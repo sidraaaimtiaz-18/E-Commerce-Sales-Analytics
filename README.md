@@ -136,7 +136,7 @@ The Power BI dashboard consists of three interactive report pages.
 ### Advanced Business Insights
 
 
-![Advanced Business Insights](Images/Advanced%20Business%20Insights.PNG)
+![Advanced Business Insigths](Images/Advanced%20Business%20Insigths.PNG)
 
 ---
 
